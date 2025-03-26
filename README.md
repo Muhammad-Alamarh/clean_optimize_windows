@@ -95,17 +95,28 @@ echo.
 echo Windows cleanup and optimization completed successfully!
 pause
 exit
-
+```
 ✅ What This Script Does:
 ✔ Deletes temporary files from %temp%, C:\Windows\Temp, and C:\Windows\Prefetch.
+
 ✔ Flushes DNS cache to fix internet issues.
+
 ✔ Checks and fixes disk errors with chkdsk.
+
 ✔ Clears the clipboard to free up RAM.
+
 ✔ Runs Disk Cleanup to remove unnecessary files.
+
 ✔ Resets network settings to fix connection problems.
+
 ✔ Scans and repairs system files with sfc /scannow.
+
 ✔ Restores Windows health using DISM /restorehealth.
+
 ✔ Clears Windows event logs to free up space.
+
 ✔ Removes old Windows updates to reduce disk usage.
+
 ✔ Disables hibernation to free gigabytes of storage.
+
 ✔ Optimizes SSD & defragments HDD for better performance.
