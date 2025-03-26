@@ -5,10 +5,18 @@
 3- Save it as clean_optimize_windows.bat (Make sure it's .bat, not .txt).
 4- Right-click the file and select "Run as Administrator".
 
-🖥 Ultimate Windows Cleanup & Optimization Script
-cmd
-Copy
-Edit
+# Ultimate Windows Cleanup & Optimization Script
+
+## 📌 How to Use:
+1. Open **Notepad**.
+2. Copy and paste the code below.
+3. Save it as **`clean_optimize_windows.bat`** (**Make sure it's `.bat`, not `.txt`**).
+4. **Right-click** the file and select **"Run as Administrator"**.
+
+---
+
+## 🖥 Windows Cleanup & Optimization Script
+```batch
 @echo off
 title Windows Cleanup & Optimization
 echo Cleaning and optimizing Windows... Please wait.
@@ -94,6 +102,7 @@ echo.
 echo Windows cleanup and optimization completed successfully!
 pause
 exit
+
 ✅ What This Script Does:
 ✔ Deletes temporary files from %temp%, C:\Windows\Temp, and C:\Windows\Prefetch.
 ✔ Flushes DNS cache to fix internet issues.
