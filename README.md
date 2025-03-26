@@ -1,10 +1,3 @@
-# clean_optimize_windows
-
-1- Open Notepad.
-2- Copy and paste the code below.
-3- Save it as clean_optimize_windows.bat (Make sure it's .bat, not .txt).
-4- Right-click the file and select "Run as Administrator".
-
 # Ultimate Windows Cleanup & Optimization Script
 
 ## 📌 How to Use:
