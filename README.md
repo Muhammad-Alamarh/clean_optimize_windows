@@ -97,6 +97,7 @@ pause
 exit
 ```
 ✅ What This Script Does:
+
 ✔ Deletes temporary files from %temp%, C:\Windows\Temp, and C:\Windows\Prefetch.
 
 ✔ Flushes DNS cache to fix internet issues.
